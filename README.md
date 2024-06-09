@@ -1,4 +1,4 @@
--Edusity Page
+-Gemini Page
 
 A Page With Gemini AI Api 
 You Can Ask Anything You Want From
