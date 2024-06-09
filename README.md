@@ -1,8 +1,13 @@
-# React + Vite
+-Edusity Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Page With Gemini AI Api 
+You Can Ask Anything You Want From
+!!-- Thats Need Vpn For This Api If In You Country Gemini Is Filter --!!
 
-Currently, two official plugins are available:
+-Created With Vite Plugin
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+-Full Responsive
+
+
+-BeatiFull Design
