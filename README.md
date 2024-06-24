@@ -5,7 +5,7 @@ You Can Ask Anything You Want From
 
 
 
-!!!!-- Thats Need Vpn For This Api If In You Country Gemini Is Filter --!!!!
+!!!!-- Thats Need Vpn For The Api If In Your Country Gemini Is Filter --!!!!
 
 
 
